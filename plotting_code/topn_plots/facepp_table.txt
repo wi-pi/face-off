@@ -1,0 +1,57 @@
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/cw_l2/large_triplet/hinge_loss/npz_mean', ['cw_l2_large_triplet_h_loss_taylor_03_barack.npz', 'cw_l2_large_triplet_h_loss_morgan_02_leo.npz', 'cw_l2_large_triplet_h_loss_melania_04_barack.npz', 'cw_l2_large_triplet_h_loss_barack_02_melania.npz', 'cw_l2_large_triplet_h_loss_leo_03_melania.npz', 'cw_l2_large_triplet_h_loss_barack_02_taylor.npz', 'cw_l2_large_triplet_h_loss_morgan_02_taylor.npz', 'cw_l2_large_triplet_h_loss_taylor_03_leo.npz', 'cw_l2_large_triplet_h_loss_leo_03_taylor.npz', 'cw_l2_large_triplet_h_loss_taylor_03_morgan.npz', 'cw_l2_large_triplet_h_loss_taylor_03_matt.npz', 'cw_l2_large_triplet_h_loss_taylor_03_melania.npz', 'cw_l2_large_triplet_h_loss_morgan_02_barack.npz', 'cw_l2_large_triplet_h_loss_leo_03_matt.npz', 'cw_l2_large_triplet_h_loss_melania_04_taylor.npz', 'cw_l2_large_triplet_h_loss_matt_04_leo.npz', 'cw_l2_large_triplet_h_loss_barack_02_matt.npz', 'cw_l2_large_triplet_h_loss_melania_04_matt.npz', 'cw_l2_large_triplet_h_loss_melania_04_leo.npz', 'cw_l2_large_triplet_h_loss_barack_02_morgan.npz', 'cw_l2_large_triplet_h_loss_leo_03_morgan.npz', 'cw_l2_large_triplet_h_loss_leo_03_barack.npz', 'cw_l2_large_triplet_h_loss_morgan_02_melania.npz', 'cw_l2_large_triplet_h_loss_morgan_02_matt.npz', 'cw_l2_large_triplet_h_loss_matt_04_barack.npz', 'cw_l2_large_triplet_h_loss_matt_04_morgan.npz', 'cw_l2_large_triplet_h_loss_matt_04_melania.npz', 'cw_l2_large_triplet_h_loss_barack_02_leo.npz', 'cw_l2_large_triplet_h_loss_matt_04_taylor.npz', 'cw_l2_large_triplet_h_loss_melania_04_morgan.npz'])
+('top-', 3)
+ 	 & {\bf 1.0}	 & {\bf 1.8}	 & {\bf 2.6}	 & {\bf 3.4}	 & {\bf 4.2}	 & {\bf 5.0}	 & {\bf 5.8}	 & {\bf 6.6}	 & {\bf 7.4}	 & {\bf 8.2}	 & {\bf 9.0}	 & {\bf 9.8}	
+{\bf 0.0} 	 & 100\%	 & 95\%	 & 85\%	 & 80\%	 & 65\%	 & 55\%	 & 45\%	 & 45\%	 & 40\%	 & 25\%	 & 35\%	 & 25\%	
+{\bf 5.0} 	 & 100\%	 & 100\%	 & 85\%	 & 75\%	 & 65\%	 & 60\%	 & 45\%	 & 40\%	 & 40\%	 & 30\%	 & 30\%	 & 25\%	
+{\bf 10.0} 	 & 100\%	 & 95\%	 & 75\%	 & 75\%	 & 60\%	 & 45\%	 & 40\%	 & 40\%	 & 35\%	 & 30\%	 & 30\%	 & 25\%	
+
+
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/cw_l2/small_center/hinge_loss/npz_mean', ['cw_l2_small_center_h_loss_melania_04_taylor.npz', 'cw_l2_small_center_h_loss_leo_03_matt.npz', 'cw_l2_small_center_h_loss_taylor_03_melania.npz', 'cw_l2_small_center_h_loss_barack_02_morgan.npz', 'cw_l2_small_center_h_loss_matt_04_leo.npz', 'cw_l2_small_center_h_loss_morgan_02_barack.npz'])
+('top-', 3)
+ 	 & {\bf 1.0}	 & {\bf 1.8}	 & {\bf 2.6}	 & {\bf 3.4}	 & {\bf 4.2}	 & {\bf 5.0}	 & {\bf 5.8}	 & {\bf 6.6}	 & {\bf 7.4}	 & {\bf 8.2}	 & {\bf 9.0}	 & {\bf 9.8}	
+{\bf 0.0} 	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	
+{\bf 5.0} 	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	
+{\bf 10.0} 	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	
+
+
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/cw_l2/large_center/hinge_loss/npz_mean', [])
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/cw_l2/casia/hinge_loss/npz_mean', [])
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/cw_l2/small_triplet/hinge_loss/npz_mean', [])
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/cw_li/large_triplet/hinge_loss/npz_mean', ['cw_li_large_triplet_h_loss_matt_04_leo.npz', 'cw_li_large_triplet_h_loss_leo_03_barack.npz', 'cw_li_large_triplet_h_loss_melania_04_leo.npz', 'cw_li_large_triplet_h_loss_morgan_02_taylor.npz', 'cw_li_large_triplet_h_loss_morgan_02_melania.npz', 'cw_li_large_triplet_h_loss_leo_03_matt.npz', 'cw_li_large_triplet_h_loss_leo_03_taylor.npz', 'cw_li_large_triplet_h_loss_melania_04_morgan.npz', 'cw_li_large_triplet_h_loss_taylor_03_melania.npz', 'cw_li_large_triplet_h_loss_matt_04_barack.npz', 'cw_li_large_triplet_h_loss_taylor_03_barack.npz', 'cw_li_large_triplet_h_loss_barack_02_leo.npz', 'cw_li_large_triplet_h_loss_barack_02_matt.npz', 'cw_li_large_triplet_h_loss_barack_02_morgan.npz', 'cw_li_large_triplet_h_loss_matt_04_morgan.npz', 'cw_li_large_triplet_h_loss_taylor_03_matt.npz', 'cw_li_large_triplet_h_loss_barack_02_melania.npz', 'cw_li_large_triplet_h_loss_morgan_02_barack.npz', 'cw_li_large_triplet_h_loss_taylor_03_leo.npz', 'cw_li_large_triplet_h_loss_matt_04_melania.npz', 'cw_li_large_triplet_h_loss_morgan_02_matt.npz', 'cw_li_large_triplet_h_loss_melania_04_taylor.npz', 'cw_li_large_triplet_h_loss_melania_04_matt.npz', 'cw_li_large_triplet_h_loss_melania_04_barack.npz', 'cw_li_large_triplet_h_loss_taylor_03_morgan.npz', 'cw_li_large_triplet_h_loss_morgan_02_leo.npz', 'cw_li_large_triplet_h_loss_matt_04_taylor.npz', 'cw_li_large_triplet_h_loss_barack_02_taylor.npz', 'cw_li_large_triplet_h_loss_leo_03_morgan.npz', 'cw_li_large_triplet_h_loss_leo_03_melania.npz'])
+('top-', 3)
+ 	 & {\bf 1.0}	 & {\bf 1.8}	 & {\bf 2.6}	 & {\bf 3.4}	 & {\bf 4.2}	 & {\bf 5.0}	 & {\bf 5.8}	 & {\bf 6.6}	 & {\bf 7.4}	 & {\bf 8.2}	 & {\bf 9.0}	 & {\bf 9.8}	
+{\bf 0.0} 	 & 100\%	 & 100\%	 & 95\%	 & 80\%	 & 70\%	 & 65\%	 & 55\%	 & 45\%	 & 35\%	 & 40\%	 & 30\%	 & 30\%	
+{\bf 5.0} 	 & 100\%	 & 100\%	 & 85\%	 & 80\%	 & 70\%	 & 65\%	 & 40\%	 & 40\%	 & 40\%	 & 35\%	 & 35\%	 & 40\%	
+{\bf 10.0} 	 & 100\%	 & 100\%	 & 80\%	 & 75\%	 & 70\%	 & 60\%	 & 50\%	 & 45\%	 & 35\%	 & 30\%	 & 30\%	 & 30\%	
+
+
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/cw_li/small_center/hinge_loss/npz_mean', ['cw_li_small_center_h_loss_melania_04_taylor.npz', 'cw_li_small_center_h_loss_leo_03_matt.npz', 'cw_li_small_center_h_loss_matt_04_leo.npz', 'cw_li_small_center_h_loss_barack_02_morgan.npz', 'cw_li_small_center_h_loss_taylor_03_melania.npz', 'cw_li_small_center_h_loss_morgan_02_barack.npz'])
+('top-', 3)
+ 	 & {\bf 1.0}	 & {\bf 1.8}	 & {\bf 2.6}	 & {\bf 3.4}	 & {\bf 4.2}	 & {\bf 5.0}	 & {\bf 5.8}	 & {\bf 6.6}	 & {\bf 7.4}	 & {\bf 8.2}	 & {\bf 9.0}	 & {\bf 9.8}	
+{\bf 0.0} 	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	
+{\bf 5.0} 	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	
+{\bf 10.0} 	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	
+
+
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/cw_li/large_center/hinge_loss/npz_mean', [])
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/cw_li/casia/hinge_loss/npz_mean', [])
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/cw_li/small_triplet/hinge_loss/npz_mean', [])
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/pgd_l2/large_triplet/hinge_loss/npz_mean', ['pgd_l2_large_triplet_h_loss_morgan_02_taylor.npz', 'pgd_l2_large_triplet_h_loss_melania_04_barack.npz', 'pgd_l2_large_triplet_h_loss_barack_02_melania.npz', 'pgd_l2_large_triplet_h_loss_barack_02_leo.npz', 'pgd_l2_large_triplet_h_loss_melania_04_leo.npz', 'pgd_l2_large_triplet_h_loss_barack_02_morgan.npz', 'pgd_l2_large_triplet_h_loss_taylor_03_morgan.npz', 'pgd_l2_large_triplet_h_loss_melania_04_morgan.npz', 'pgd_l2_large_triplet_h_loss_morgan_02_matt.npz', 'pgd_l2_large_triplet_h_loss_taylor_03_leo.npz', 'pgd_l2_large_triplet_h_loss_morgan_02_barack.npz', 'pgd_l2_large_triplet_h_loss_morgan_02_leo.npz', 'pgd_l2_large_triplet_h_loss_matt_04_taylor.npz', 'pgd_l2_large_triplet_h_loss_taylor_03_matt.npz', 'pgd_l2_large_triplet_h_loss_melania_04_taylor.npz', 'pgd_l2_large_triplet_h_loss_melania_04_matt.npz', 'pgd_l2_large_triplet_h_loss_matt_04_leo.npz', 'pgd_l2_large_triplet_h_loss_taylor_03_barack.npz', 'pgd_l2_large_triplet_h_loss_matt_04_barack.npz', 'pgd_l2_large_triplet_h_loss_barack_02_taylor.npz', 'pgd_l2_large_triplet_h_loss_matt_04_melania.npz', 'pgd_l2_large_triplet_h_loss_leo_03_taylor.npz', 'pgd_l2_large_triplet_h_loss_leo_03_morgan.npz', 'pgd_l2_large_triplet_h_loss_morgan_02_melania.npz', 'pgd_l2_large_triplet_h_loss_taylor_03_melania.npz', 'pgd_l2_large_triplet_h_loss_matt_04_morgan.npz', 'pgd_l2_large_triplet_h_loss_leo_03_melania.npz', 'pgd_l2_large_triplet_h_loss_leo_03_barack.npz', 'pgd_l2_large_triplet_h_loss_barack_02_matt.npz', 'pgd_l2_large_triplet_h_loss_leo_03_matt.npz'])
+('top-', 3)
+ 	 & {\bf 1.0}	 & {\bf 1.8}	 & {\bf 2.6}	 & {\bf 3.4}	 & {\bf 4.2}	 & {\bf 5.0}	 & {\bf 5.8}	 & {\bf 6.6}	 & {\bf 7.4}	 & {\bf 8.2}	 & {\bf 9.0}	 & {\bf 9.8}	
+{\bf 0.0} 	 & 100\%	 & 95\%	 & 85\%	 & 70\%	 & 25\%	 & 15\%	 & 0\%	 & 0\%	 & 0\%	 & 0\%	 & 0\%	 & 0\%	
+{\bf 5.0} 	 & 100\%	 & 95\%	 & 80\%	 & 65\%	 & 30\%	 & 20\%	 & 0\%	 & 0\%	 & 0\%	 & 0\%	 & 0\%	 & 0\%	
+{\bf 10.0} 	 & 100\%	 & 80\%	 & 75\%	 & 55\%	 & 30\%	 & 0\%	 & 0\%	 & 0\%	 & 0\%	 & 0\%	 & 0\%	 & 0\%	
+
+
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/pgd_l2/small_center/hinge_loss/npz_mean', ['pgd_l2_small_center_h_loss_matt_04_leo.npz', 'pgd_l2_small_center_h_loss_taylor_03_melania.npz', 'pgd_l2_small_center_h_loss_barack_02_morgan.npz', 'pgd_l2_small_center_h_loss_morgan_02_barack.npz', 'pgd_l2_small_center_h_loss_leo_03_matt.npz', 'pgd_l2_small_center_h_loss_melania_04_taylor.npz'])
+('top-', 3)
+ 	 & {\bf 1.0}	 & {\bf 1.8}	 & {\bf 2.6}	 & {\bf 3.4}	 & {\bf 4.2}	 & {\bf 5.0}	 & {\bf 5.8}	 & {\bf 6.6}	 & {\bf 7.4}	 & {\bf 8.2}	 & {\bf 9.0}	 & {\bf 9.8}	
+{\bf 0.0} 	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 75\%	 & 75\%	 & 50\%	 & 50\%	
+{\bf 5.0} 	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 75\%	 & 75\%	 & 50\%	 & 50\%	
+{\bf 10.0} 	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 100\%	 & 75\%	 & 75\%	 & 50\%	 & 50\%	 & 50\%	
+
+
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/pgd_l2/large_center/hinge_loss/npz_mean', [])
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/pgd_l2/casia/hinge_loss/npz_mean', [])
+('/home/bjtang2/github/AdvFace/new_api_results/facepp/pgd_l2/small_triplet/hinge_loss/npz_mean', [])

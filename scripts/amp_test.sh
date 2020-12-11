@@ -1,0 +1,1 @@
+python src/amp_test.py large target 2 >> fileio/amp_out.log 2>> fileio/amp_err.log

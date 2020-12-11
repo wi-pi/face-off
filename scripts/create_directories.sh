@@ -1,0 +1,1 @@
+python src/create_directories.py

@@ -1,0 +1,10 @@
+#python src/analyze_api.py ./api_results/awsverify/dataset2/matt_06_leo_awsverify_large_hing_ds2_1.npz
+#python src/analyze_api.py ./api_results/awsverify/dataset2/matt_06_leo_awsverify_large_hing_ds2_2.npz
+#python src/analyze_api.py ./api_results/faceapp/dataset2/matt_03_leo_faceapp_center_targ_ds2_1.npz
+#python src/analyze_api.py ./api_results/faceapp/dataset2/matt_03_leo_faceapp_center_targ_ds2_2.npz
+#python src/analyze_api.py ./api_results/faceapp/dataset2/matt_06_leo_faceapp_large_targ_ds2_1.npz
+#python src/analyze_api.py ./api_results/faceapp/dataset2/matt_06_leo_faceapp_large_targ_ds2_2.npz
+#python src/analyze_api.py ./api_results/awsverify/dataset2/matt_06_leo_awsverify_large_targ_ds2_1.npz
+#python src/analyze_api.py ./api_results/awsverify/dataset2/matt_06_leo_awsverify_large_targ_ds2_2.npz
+#python src/analyze_api.py ./api_results/awsverify/dataset2/matt_03_leo_aws_verify_center_hing_ds2_1.npz
+#python src/analyze_api.py ./api_results/awsverify/dataset2/matt_03_leo_aws_verify_center_hing_ds2_2.npz
