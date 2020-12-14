@@ -16,6 +16,4 @@ target_loss/
 aligned_large/
 fileio/
 new_adv_imgs/
-weights/
 old_api_results/
-data/

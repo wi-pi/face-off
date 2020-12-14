@@ -14,7 +14,7 @@ FaceID_key = ''
 aws_access_key_id = ''
 aws_secret_access_key = ''
 # face++
-facepp_api_key = '-K'
+facepp_api_key = ''
 facepp_api_sec = ''
 
 

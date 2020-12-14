@@ -37,8 +37,8 @@ class Benchmark:
             self.end[message] = -1
 
 
-S3_DIR = 'https://s3.amazonaws.com/797qjz1donyyji5r4n'
-S3_BUCKET = '797qjz1donyyji5r4n'
+S3_DIR = ''
+S3_BUCKET = ''
 ROOT = os.path.abspath('.')
 ALIGN_96_DIR = 'data/celeb96'
 ALIGN_160_DIR = 'data/celeb160'

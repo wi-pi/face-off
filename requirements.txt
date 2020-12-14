@@ -26,3 +26,6 @@ tensorflow-tensorboard==1.5.1
 termcolor==1.1.0
 Werkzeug==1.0.1
 zipp==3.1.0
+cleverhans==3.0.1
+boto3==1.16.36
+requests==2.25.0
