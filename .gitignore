@@ -10,7 +10,6 @@ api_results/
 adv_VGG.png
 env/
 venv/
-test_imgs/
 faceoff.egg-info/
 target_loss/
 aligned_large/
