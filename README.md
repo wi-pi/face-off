@@ -46,5 +46,8 @@ https://azure.microsoft.com/en-us/services/cognitive-services/face/#get-started
 
 https://www.faceplusplus.com/
 
-## Link to the paper
+### Link to the paper
 https://arxiv.org/abs/2003.08861
+
+### Contact
+Questions? Contact bjtang2@wisc.edu or byron123t@gmail.com with subject: Face-Off
