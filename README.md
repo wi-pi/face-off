@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/1qE21bgqeCjtqyUrCqehRd8MKt4zGn-i4?usp=sha
 ```
 Creates the necessary subdirectories
 ```
-./scripts/attack.sh
+./scripts/attack1.sh
 ```
 Generates perturbations on a single image-class pair
 ```
@@ -48,6 +48,16 @@ https://www.faceplusplus.com/
 
 ### Link to the paper
 https://arxiv.org/abs/2003.08861
+
+### Citation
+```
+@inproceedings{faceoff-pets21,
+  title = {Face-Off: Adversarial Face Obfuscation},
+  author = {Varun Chandrasekaran, Chuhan Gao, Brian Tang, Kassem Fawaz, Somesh Jha, and Suman Banerjee},
+  booktitle = {Privacy Enhancing Technologies 2021 (PETS 2021)},
+  year = {2021}
+}
+```
 
 ### Contact
 Questions? Contact bjtang2@wisc.edu or byron123t@gmail.com with subject: Face-Off
