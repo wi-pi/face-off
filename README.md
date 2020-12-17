@@ -21,9 +21,13 @@ https://drive.google.com/drive/folders/1qE21bgqeCjtqyUrCqehRd8MKt4zGn-i4?usp=sha
 ```
 Creates the necessary subdirectories
 ```
-./scripts/attack1.sh
+./scripts/attack.sh
 ```
 Generates perturbations on a single image-class pair
+```
+./scripts/mask_my_face.sh
+```
+Generates perturbations on the set of faces in `data/my_face/`
 ```
 ./scripts/api_eval.sh
 ```

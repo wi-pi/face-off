@@ -148,6 +148,7 @@ def save_image(file_names,
     Keyword arguments:
     """
     
+    print('Images written to {}'.format(out_img_names[file_names[0]]))
     for i, name in enumerate(adv_img_stack):
         if adv_img_stack[i] is not None:
             file = file_names[i]
