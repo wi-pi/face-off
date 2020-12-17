@@ -27,7 +27,7 @@ Generates perturbations on a single image-class pair
 ```
 ./scripts/mask_my_face.sh
 ```
-Generates perturbations on the set of faces in `data/my_face/`
+Generates perturbations on the set of faces in `data/test_imgs/my_face/`
 ```
 ./scripts/api_eval.sh
 ```
