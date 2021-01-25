@@ -35,7 +35,7 @@ Generates perturbations on a single image-class pair
 ```
 ./scripts/mask_my_face.sh
 ```
-Generates perturbations on the set of faces in `data/myface/`
+Generates perturbations on the set of faces in `data/test_imgs/myface/`
 NOTE: If you want to use hinge loss, you must align a bucket of your own faces to sizes 160x160 or 96x96. You can use MTCNN to do so. We will integrate support for this shortly.
 ```
 ./scripts/api_eval.sh
