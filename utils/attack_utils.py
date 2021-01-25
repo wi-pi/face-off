@@ -153,7 +153,9 @@ def save_image(file_names,
         if adv_img_stack[i] is not None:
             file = file_names[i]
             imageio.imwrite(out_img_names[file], (adv_img_stack[i] * 255).astype(np.uint8))
+            print('SUCCESS! Images written to {}'.format(out_img_names[file]))
             imageio.imwrite(out_img_names_crop[file], (adv_crop_stack[i] * 255).astype(np.uint8))
+            print('SUCCESS! Images written to {}'.format(out_img_names_crop[file]))
 
 
 def save_np(out_npz_names,

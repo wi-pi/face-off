@@ -190,7 +190,7 @@ if __name__ == "__main__":
     parser.add_argument('--mean-loss', type=str, default='embeddingmean', help='old:(embedding) new formulation:(embeddingmean) WIP formulation:(distancemean)', choices=['embeddingmean', 'embedding', 'distancemean'])
     parser.add_argument('--batch-size', type=int, default=-1, help='batch size')
     parser.add_argument('--pair-flag', type=str, default='false', help='optimal source target pairs')
-    parser.add_argument('--source', type=str, default='none', help='', choices=['barack', 'bill', 'jenn', 'leo', 'mark', 'matt', 'melania', 'meryl', 'morgan', 'taylor', 'none'])
+    parser.add_argument('--source', type=str, default='none', help='', choices=['barack', 'bill', 'jenn', 'leo', 'mark', 'matt', 'melania', 'meryl', 'morgan', 'taylor', 'myface', 'none'])
     args = parser.parse_args()
     
     tf_config = Config.set_gpu(args.gpu)

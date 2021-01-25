@@ -6,6 +6,8 @@ Face-Off is a privacy-preserving framework that introduces strategic perturbatio
 ### Installation
 Using python version 3.5.2
 ```
+git clone https://github.com/wi-pi/face-off.git
+python -m pip install venv
 python3.5 -m venv /path/to/new/virtual/environment
 source /path/to/new/virtual/environment/bin/activate
 pip install -e .
@@ -14,6 +16,12 @@ pip install -r requirements.txt
 
 ### Required weights
 https://drive.google.com/drive/folders/1qE21bgqeCjtqyUrCqehRd8MKt4zGn-i4?usp=sharing
+Download each of the weights to the  `./weights` folder. These are used for generating adversarial examples and evaluating transferability offline.
+
+### Required resources
+Using a server with 40 CPU cores, 2 Nvidia TITAN Xp's, and 1 Quadro P6000, 125 GB Memory, Ubuntu version 16.04 LTS.
+Using CUDA 10.0, NVIDIA Driver 410.104.
+See https://stackoverflow.com/questions/50622525/which-tensorflow-and-cuda-version-combinations-are-compatible for CUDA - TensorFlow compatibility.
 
 ### Development
 ```
@@ -27,7 +35,8 @@ Generates perturbations on a single image-class pair
 ```
 ./scripts/mask_my_face.sh
 ```
-Generates perturbations on the set of faces in `data/my_face/`
+Generates perturbations on the set of faces in `data/myface/`
+NOTE: If you want to use hinge loss, you must align a bucket of your own faces to sizes 160x160 or 96x96. You can use MTCNN to do so. We will integrate support for this shortly.
 ```
 ./scripts/api_eval.sh
 ```
@@ -38,17 +47,17 @@ Feeds generated perturbations into the APIs and stores results
 Reads and interprets the API scores
 
 ### API evaluation
-Note that any API evaluation requires accounts, keys, and an AWS S3 bucket. Below are some links to resources helpful for setting up keys.
+Note that any API evaluation requires accounts, keys, and an AWS S3 bucket. Below are some links to resources helpful for setting up keys. Follow the step-by-step instructions found in the below links.
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/access-points.html
+AWS S3: https://docs.aws.amazon.com/AmazonS3/latest/dev/access-points.html
 
-https://aws.amazon.com/premiumsupport/knowledge-center/read-access-objects-s3-bucket/
+AWS S3 - Public Read Access: https://aws.amazon.com/premiumsupport/knowledge-center/read-access-objects-s3-bucket/
 
-https://docs.aws.amazon.com/rekognition/latest/dg/getting-started.html
+AWS Rekognition: https://docs.aws.amazon.com/rekognition/latest/dg/getting-started.html
 
-https://azure.microsoft.com/en-us/services/cognitive-services/face/#get-started
+Azure Face: https://azure.microsoft.com/en-us/services/cognitive-services/face/#get-started
 
-https://www.faceplusplus.com/
+Face++: https://console.faceplusplus.com/documents/7079083
 
 ### Link to the paper
 https://arxiv.org/abs/2003.08861
