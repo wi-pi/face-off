@@ -72,3 +72,5 @@ recurse_directories(0, 3, ADV_IMGS)
 
 create(API_RESULTS)
 recurse_directories(-1, 3, API_RESULTS)
+
+print('SUCCESS!')
