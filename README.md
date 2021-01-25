@@ -20,7 +20,9 @@ Download each of the weights to the  `weights` folder. These are used for genera
 
 ### Required resources
 Results reported in the paper were obtained using a server with 40 CPU cores, 2 Nvidia TITAN Xp's, and 1 Quadro P6000, 125 GB Memory, Ubuntu version 16.04 LTS, CUDA 10.0, NVIDIA Driver 410.104.
+
 Disclaimer: The code has not yet been tested on a variety of platforms.
+
 See https://stackoverflow.com/questions/50622525/which-tensorflow-and-cuda-version-combinations-are-compatible for CUDA - TensorFlow compatibility.
 
 ### API evaluation
@@ -51,6 +53,7 @@ Generates perturbations on a single image-class pair. Code generates perturbatio
 ./scripts/mask_my_face.sh
 ```
 Generates perturbations on the set of faces in `data/test_imgs/myface/`. Code generates perturbations on faces, and outputs results in `data/new_adv_imgs`. Successful generation will be printed through each iteration.
+
 NOTE: If you want to use hinge loss, you must align (detect, crop, and resize) a bucket of your own faces to sizes 160x160 or 96x96. You can use MTCNN to do so. We will integrate support for this shortly.
 ```
 ./scripts/api_eval.sh
